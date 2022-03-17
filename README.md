@@ -7,7 +7,6 @@ Tengo cierta curiosidad por las aplicaciones, asi que es factible, que siga por 
 [![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/emilianocba)
 
 ---
-<br><br>
 
 #### TECNOLOGIAS QUE USO
 Por el momento, manejo estas tecnologías.
