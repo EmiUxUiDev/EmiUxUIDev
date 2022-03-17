@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola! soy Emiliano
+Entre a este mundo de la tecnología IT, por medio del diseño Ux UI, y ahora, volcandome hacia la codificación y la programacíon web.
+Tengo cierta curiosidad por las aplicaciones, asi que es factible, que siga por ese lado, quien sabe Kotlin? En fin, el camino es largo y dinamico, lo importante es pasarla bien mientras se hace!.<br><br>
 
-<!--
-**EmiUxUiDev/EmiUxUIDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### CONTACTAME
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-agu-834544226/)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+543513441306)
+[![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/emilianocba)
 
-Here are some ideas to get you started:
+---
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### TECNOLOGIAS QUE USO
+Por el momento, manejo estas tecnologías.
+Actualmente, me encuentro aprendiendo JS. La primera incorporación, será enriqueciendo el proyecto previamente maqueteado en HTML, CSS y SASS que tengo hecho "Re+online".
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</div>
+
